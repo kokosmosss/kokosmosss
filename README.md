@@ -1,8 +1,7 @@
-<h1 align="center"> 
+<div align="center"> 
   <img src="https://github.com/kokosmosss/kokosmosss/blob/main/images/header.png" alt="Hey! I`m Mary, frontend developer"/>
-</h1>
-<h2 align="center"> 👨‍💻 And I`m open for hiring! 👨‍💻</h2>
-
+  <h2 align="center"> 👨‍💻 And I`m open for hiring! 👨‍💻</h2>
+</div>
 <div align="center">
   <a href="https://t.me/kokosmosss">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -14,8 +13,6 @@
 - 📄 Know about my experiences [CV(rus)](https://github.com/kokosmosss/kokosmosss/blob/main/images/cv-ru.png)
 - 📫 Reach me by [email](mailto:gavrilovama.ru24@gmail.com)
 - 🌍 I speak Russian and English
-
----
 
 ### Languages and tools
 
